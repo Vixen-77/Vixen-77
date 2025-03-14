@@ -7,7 +7,7 @@
 👾 Yeah, it's kinda paradoxical… design → frontend, but I love **logic & backend thinking**!  
 
 ## My Tech Stack 💻⚡  
-🔮  **ASP.NET Core** → My favorite tool for building **RESTful APIs** a big classic 
+🔮  **ASP.NET Core** → My favorite tool for building **RESTful APIs** a big classic i use the version 8.0.406 the lastest one in the 8.0 in long term support category (9.0 is out and 10.0 is on beta )
 🔮  **Real-time APIs?** Of course! I use **SignalR** for WebSockets 🛰️  
 🔮  **Frontend?** A bit! not really my cup of tea but I work with **React 19 + Vite 6.0.2 + TailwindCSS 4.0 +shadcn as a librery for deisgn** 🎨  
 🔮  **database* i use **SSMS** (sql serveur manager express) a light version of sql serveur devloped by microsoft if ur already familiar with i use it cuz its the best combo with ASP i 
