@@ -4,7 +4,7 @@
 🌺 **UX/UI Junior Designer with Figma** (but mostly a **backend developer**)  
 🌸 **2D tradictional artist** and starting the digital art recently mostly 2D (3D not yet for now)
 ❄️ **creating logos from scratch** no Adobe , No figma just phone and finger 
-👾 Yeah, it's kinda paradoxical… design → frontend, but I love **logic & backend thinking**!  
+👾 Yeah, it's kinda paradoxical… design → frontend, but I Prefer **logic & backend thinking** 
 
 ## My Tech Stack 💻⚡  
 🔮  **ASP.NET Core** → My favorite tool for building **RESTful APIs** a big classic i use the version 8.0.406 the lastest one in the 8.0 in long term support category (9.0 is out and 10.0 is on beta )
