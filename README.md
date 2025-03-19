@@ -1,4 +1,4 @@
-# Hi, am Yousra 
+# Hi, its Yousra 
 
 🎓 I'm a **Computer Science student** at **USTHB (L3)**  
 🌺 **UX/UI Junior Designer with Figma** (but mostly a **backend developer**)  
