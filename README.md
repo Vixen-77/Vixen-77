@@ -1,7 +1,7 @@
 
 #  Hi, I'm Yousra
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vixen-77/Vixen-77/main/banner.gif" alt="Animated Banner" width="100%" style="border-radius:10px;">
+  <img src="https://raw.githubusercontent.com/Vixen-77/Vixen-77/main/banner.gif" alt="Animated Banner" width="90%" style="border-radius:40px;">
 </p>
 
 
