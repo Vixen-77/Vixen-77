@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 # 👋 Hi, I'm Yousra<br><br>![Landscape Banner](https://unsplash.com/fr/photos/une-ville-futuriste-la-nuit-avec-des-neons-FXJTvGrqevg)<br><br>🎓 I’m a Computer Science student specializing in Visual Computing.  <br>I’m passionate about 3D graphics, cinematic visuals, and classical image processing.  <br>Recently, I’ve been diving into Artificial Intelligence — exploring AI-based image processing, prompt engineering, and the ethics of prompt cracking.
 
 
