@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Yousra
+# Hi, I'm Yousra
 
 <img src="https://raw.githubusercontent.com/Vixen-77/Vixen-77/main/banner.gif" alt="Animated Banner" width="100%" height="200" style="border-radius:10px; object-fit: cover;">
 
@@ -13,8 +13,8 @@
 ## 🎨 About Me
 
 ```yaml
-name: Yousra
-role: Computer Science Student
+full name: Redjah Yousra Sarah
+role: Computer Science Student in USTHB M1
 specialization: Visual Computing
 interests:
   - 🎬 Cinematic Visuals & 3D Graphics
