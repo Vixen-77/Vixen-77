@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Yousra
 
-<img src="https://raw.githubusercontent.com/Vixen-77/Vixen-77/main/banner.gif" alt="Animated Banner" width="100%" height="200" style="border-radius:10px; object-fit: cover;">
+<img src="https://raw.githubusercontent.com/Vixen-77/Vixen-77/main/BannerGIF.gif" alt="Animated Banner" width="100%" height="200" style="border-radius:10px; object-fit: cover;">
 
 ### 💜 Visual Computing Enthusiast | 3D Graphics | AI Explorer
 
