@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Hi, I'm Yousra
+# 👋 Hi, I'm Yousra
 
 <img src="https://raw.githubusercontent.com/Vixen-77/Vixen-77/main/banner.gif" alt="Animated Banner" width="100%" height="200" style="border-radius:10px; object-fit: cover;">
 
@@ -15,18 +15,28 @@
 
 ## 🎨 About Me
 
+<table>
+<tr>
+<td>
+
 ```yaml
 name: Yousra
 role: Computer Science Student
 specialization: Visual Computing
-interests:
-  - 🎬 Cinematic Visuals & 3D Graphics
-  - 🖼️ Classical Image Processing
-  - 🤖 AI-Based Image Processing
-  - ✨ Prompt Engineering
-  - 🔐 AI Ethics & Prompt Cracking
-current_focus: "Exploring the intersection of AI and visual storytelling"
 ```
+
+**Interests:**
+- 🎬 <img src="https://img.shields.io/badge/Cinematic_Visuals_&_3D_Graphics-8B00FF?style=flat&logoColor=white" />
+- 🖼️ <img src="https://img.shields.io/badge/Classical_Image_Processing-DC143C?style=flat&logoColor=white" />
+- 🤖 <img src="https://img.shields.io/badge/AI_Based_Image_Processing-9400D3?style=flat&logoColor=white" />
+- ✨ <img src="https://img.shields.io/badge/Prompt_Engineering-FF1493?style=flat&logoColor=white" />
+- 🔐 <img src="https://img.shields.io/badge/AI_Ethics_&_Prompt_Cracking-8B008B?style=flat&logoColor=white" />
+
+**Current Focus:** *"Exploring the intersection of AI and visual storytelling"*
+
+</td>
+</tr>
+</table>
 
 ---
 
