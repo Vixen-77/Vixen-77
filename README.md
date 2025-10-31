@@ -20,8 +20,8 @@
 <td>
 
 ```yaml
-name: Yousra
-role: Computer Science Student
+Full name: Redjah Yousra Sarah
+role: Computer Science Student USTHB M1
 specialization: Visual Computing
 ```
 
