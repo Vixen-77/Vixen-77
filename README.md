@@ -1,6 +1,7 @@
 
-# 👋 Hi, I'm Yousra<br><br>![Landscape Banner](https://unsplash.com/fr/photos/une-ville-futuriste-la-nuit-avec-des-neons-FXJTvGrqevg)<br><br>🎓 I’m a Computer Science student specializing in Visual Computing.  <br>I’m passionate about 3D graphics, cinematic visuals, and classical image processing.  <br>Recently, I’ve been diving into Artificial Intelligence — exploring AI-based image processing, prompt engineering, and the ethics of prompt cracking.
+# 👋 Hi, I'm Yousra<br><br>![Landscape Banner](https://unsplash.com/fr/photos/une-ville-futuriste-la-nuit-avec-des-neons-FXJTvGrqevg)<br><br>
 
+🎓 ɪ’ᴍ ᴀ ᴄᴏᴍᴘᴜᴛᴇʀ ꜱᴄɪᴇɴᴄᴇ ꜱᴛᴜᴅᴇɴᴛ ꜱᴘᴇᴄɪᴀʟɪᴢɪɴɢ ɪɴ ᴠɪꜱᴜᴀʟ ᴄᴏᴍᴘᴜᴛɪɴɢ.ɪ’ᴍ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ᴀʙᴏᴜᴛ 𝟥ᴅ ɢʀᴀᴘʜɪᴄꜱ, ᴄɪɴᴇᴍᴀᴛɪᴄ ᴠɪꜱᴜᴀʟꜱ, ᴀɴᴅ ᴄʟᴀꜱꜱɪᴄᴀʟ ɪᴍᴀɢᴇ ᴘʀᴏᴄᴇꜱꜱɪɴɢ.ʀᴇᴄᴇɴᴛʟʏ, ɪ’ᴠᴇ ʙᴇᴇɴ ᴅɪᴠɪɴɢ ɪɴᴛᴏ ᴀʀᴛɪꜰɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ — ᴇxᴘʟᴏʀɪɴɢ ᴀɪ-ʙᴀꜱᴇᴅ ɪᴍᴀɢᴇ ᴘʀᴏᴄᴇꜱꜱɪɴɢ, ᴘʀᴏᴍᴘᴛ ᴇɴɢɪɴᴇᴇʀɪɴɢ, ᴀɴᴅ ᴛʜᴇ ᴇᴛʜɪᴄꜱ ᴏꜰ ᴘʀᴏᴍᴘᴛ ᴄʀᴀᴄᴋɪɴɢ.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/_yousra_112266) 
